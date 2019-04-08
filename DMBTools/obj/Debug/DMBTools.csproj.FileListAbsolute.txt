@@ -1,0 +1,24 @@
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBTools.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBTools.pdb
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Debug\New Wrapper.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Debug\New Wrapper.pdb
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Debug\ResolveAssemblyReference.cache
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Debug\DMBTools.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Debug\DMBTools.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBTools.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBTools.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\New Wrapper.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Debug\DMBTools.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Debug\DMBTools.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\New Wrapper.xml
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBEncryptString.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\New Wrapper.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Debug\DMBEncryptString.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Debug\DMBTools.csprojResolveAssemblyReference.cache
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Debug\DMBTools.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Debug\DMBTools.pdb
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Debug\New Wrapper.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Debug\DMBTools.csproj.CoreCompileInputs.cache
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Debug\DMBTools.csproj.CopyComplete
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Debug\DMBTools.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Debug\DMBTools.pdb

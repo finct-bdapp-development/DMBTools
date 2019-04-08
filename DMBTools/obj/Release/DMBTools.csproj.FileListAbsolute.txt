@@ -1,0 +1,32 @@
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\ResolveAssemblyReference.cache
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBTools.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBTools.pdb
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\WrapperClass.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\DMBTools.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\DMBTools.pdb
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\WrapperClass.pdb
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\Interop.MSXML2.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\DMBTools.csproj.ResolveComReference.cache
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\Interop.MSXML2.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\Interop.ASPTypeLibrary.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\bin\Release\Interop.WebClassLibrary.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\Interop.ASPTypeLibrary.dll
+C:\ACCS Rewrites\DMB Team Tools\DMBTools\DMBTools\obj\Release\Interop.WebClassLibrary.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Release\ResolveAssemblyReference.cache
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBTools.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBTools.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\New Wrapper.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\WrapperClass.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\New Wrapper.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Release\DMBTools.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\obj\Release\DMBTools.pdb
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBEncryptString.dll
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\New Wrapper.xml
+C:\DMBDeveloperShare\CommonComponents\DMB Team Tools\DMBTools\DMBTools\bin\Release\DMBEncryptString.pdb
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Release\DMBTools.csproj.CoreCompileInputs.cache
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Release\DMBTools.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Release\DMBTools.pdb
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Release\DMBTools.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Release\DMBTools.pdb
+C:\Users\Scott\BDApp\DMBTools\DMBTools\bin\Release\WrapperClass.dll
+C:\Users\Scott\BDApp\DMBTools\DMBTools\obj\Release\DMBTools.csproj.CopyComplete
